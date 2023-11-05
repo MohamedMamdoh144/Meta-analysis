@@ -1,0 +1,16 @@
+html{
+  font-size: 14px;
+}
+.shiny-input-container label{
+  color:#eee;
+  
+}
+
+.shiny-input-container {
+  margin-left: 2vw;
+  margin-right: auto;
+  
+}
+.shiny-input-container *{
+  transition: all 0.2s ease;
+}
